@@ -1,3 +1,3 @@
-# Welcome to my Ade'd git page
+# Welcome to my Ade's git page
 
 I'm glad you are here. I plan to talk about ...
